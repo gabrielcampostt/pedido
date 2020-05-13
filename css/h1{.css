@@ -1,0 +1,34 @@
+h1{
+  font-family:arial;
+      font-size: 40px
+}
+h2{
+  font-family:arial;
+  font-size: 40px
+}
+a{
+  font-family:arial;
+  color:blue;
+}
+p{
+  font-family:arial;
+  font-size: 30px
+}
+html{
+  background-color: #008B8B;
+}
+body { 
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: ;
+  text-shadow: 
+}
+</body>
+</html>
